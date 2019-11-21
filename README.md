@@ -2,11 +2,25 @@
 Awesome of Natural Language Processing (NLP)
 
 ## Wordnets, dictionaries
+* [Wiktionary](https://www.wiktionary.org/)
 * [English Wordnet](https://wordnet.princeton.edu/)
 * [Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/)
-* [WOLF - French Wordnet](http://pauillac.inria.fr/~sagot/index.html#wolf)
 * [Lists of Wordnets](http://globalwordnet.org/resources/wordnets-in-the-world/)
-* [Wiktionary](https://www.wiktionary.org/)
+  * [WOLF - French Wordnet](http://pauillac.inria.fr/~sagot/index.html#wolf)
+  * [WoNeF · WordNet du Français](https://wonef.fr/)
+  * [Bahasa](http://wn-msa.sourceforge.net/index.eng.html)
+  * [BalkaNet (Bulgarian Czech Greek Romanian Turkish Serbian)](http://www.dblab.upatras.gr/balkanet/)
+  * [Chinese](http://compling.hss.ntu.edu.sg/cow/)
+  * [DanNet](https://cst.ku.dk/english/projekter/dannet/)
+  * [Open Dutch WordNet](http://wordpress.let.vupr.nl/odwn/) [github page](https://github.com/cltl/OpenDutchWordnet)
+  * [Estonian](https://www.cl.ut.ee/ressursid/teksaurus/)
+  * [FinnWordNet](https://www.kielipankki.fi/corpora/finnwordnet/)
+  * [Hebrew (aligned)](http://cl.haifa.ac.il/projects/mwn/index.shtml)
+  * [Hindi](http://www.cfilt.iitb.ac.in/wordnet/webhwn/)
+  * [Italian(aligned with 1.6)](http://multiwordnet.fbk.eu/english/home.php) 
+  * [Japanese](http://dcook.org/mlsn/about/)
+  * [Portuguese](https://github.com/own-pt/openWordnet-PT)
+  * [Russisch](http://wordnet.ru)
 
 ## Articles, thesis, books
 * [Thang Luong's Thesis on Neural Machine Translation](https://github.com/lmthang/thesis)
