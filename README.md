@@ -24,6 +24,7 @@ Awesome of Natural Language Processing (NLP)
 ## Uniwersal Networking Language
 * [UNLWWEB](http://www.unlweb.net/unlweb/)
 * [UNDL](http://www.undl.org/)
+* [UNL Book](https://www.cicling.org/2005/UNL-book/)
 
 ## Neural programming
 * [Tensorflow model of universal-sentence-encoder](https://tfhub.dev/google/universal-sentence-encoder/1)
