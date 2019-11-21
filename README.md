@@ -1,6 +1,12 @@
 # awesome-nlp
 Awesome of Natural Language Processing (NLP)
 
+## Wordnets, dictionaries
+* [English Wordnet](https://wordnet.princeton.edu/)
+* [WOLF - French Wordnet](http://pauillac.inria.fr/~sagot/index.html#wolf)
+* [Lists of Wordnets](http://globalwordnet.org/resources/wordnets-in-the-world/)
+* [Wiktionary](https://www.wiktionary.org/)
+
 ## Articles, thesis, books
 * [Thang Luong's Thesis on Neural Machine Translation](https://github.com/lmthang/thesis)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) Dan Jurafsky and James H. Martin (for example 19.Word Senses and WordNet)
