@@ -13,7 +13,7 @@ Awesome of Natural Language Processing (NLP)
 * [Brown Corpus](http://www.nltk.org/nltk_data/)
 
 ## Tagged corpora
-* [SemCor Corpus](https://www.kaggle.com/nltkdata/semcor-corpus/data)Sense-tagged Semantic Corpus 3.0
+* [SemCor Corpus](https://www.kaggle.com/nltkdata/semcor-corpus/data) Sense-tagged Semantic Corpus 3.0
 
 ## Dumps
 * [Wiktionary English](https://dumps.wikimedia.org/enwiktionary/latest/) (enwiktionary-latest-stub-articles.xml.gz)
