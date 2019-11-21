@@ -3,6 +3,7 @@ Awesome of Natural Language Processing (NLP)
 
 ## Wordnets, dictionaries
 * [English Wordnet](https://wordnet.princeton.edu/)
+* [Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/)
 * [WOLF - French Wordnet](http://pauillac.inria.fr/~sagot/index.html#wolf)
 * [Lists of Wordnets](http://globalwordnet.org/resources/wordnets-in-the-world/)
 * [Wiktionary](https://www.wiktionary.org/)
