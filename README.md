@@ -16,10 +16,10 @@ Awesome of Natural Language Processing (NLP)
 * [SemCor Corpus](https://www.kaggle.com/nltkdata/semcor-corpus/data)Sense-tagged Semantic Corpus 3.0
 
 ## Dumps
-* [Wiktionary English(https://dumps.wikimedia.org/enwiktionary/latest/) (enwiktionary-latest-stub-articles.xml.gz)
-* [Wiktionary Polish(https://dumps.wikimedia.org/plwiktionary/latest/) (plwiktionary-latest-stub-articles.xml.gz)
-* [Wiktionary French(https://dumps.wikimedia.org/frwiktionary/latest/) (frwiktionary-latest-stub-articles.xml.gz)
-* [Wiktionary German(https://dumps.wikimedia.org/dewiktionary/latest/) (dewiktionary-latest-stub-articles.xml.gz)
+* [Wiktionary English](https://dumps.wikimedia.org/enwiktionary/latest/) (enwiktionary-latest-stub-articles.xml.gz)
+* [Wiktionary Polish](https://dumps.wikimedia.org/plwiktionary/latest/) (plwiktionary-latest-stub-articles.xml.gz)
+* [Wiktionary French](https://dumps.wikimedia.org/frwiktionary/latest/) (frwiktionary-latest-stub-articles.xml.gz)
+* [Wiktionary German](https://dumps.wikimedia.org/dewiktionary/latest/) (dewiktionary-latest-stub-articles.xml.gz)
 
 ## Uniwersal Networking Language
 * [UNLWWEB](http://www.unlweb.net/unlweb/)
