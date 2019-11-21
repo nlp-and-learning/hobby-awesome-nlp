@@ -25,6 +25,7 @@ Awesome of Natural Language Processing (NLP)
 ## Articles, thesis, books
 * [Thang Luong's Thesis on Neural Machine Translation](https://github.com/lmthang/thesis)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) Dan Jurafsky and James H. Martin (for example 19.Word Senses and WordNet)
+* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 
 ## Parallel corpora
 * [OPUS](http://opus.nlpl.eu/)
