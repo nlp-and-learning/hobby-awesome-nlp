@@ -22,7 +22,7 @@ Awesome of Natural Language Processing (NLP)
 * [Wiktionary German](https://dumps.wikimedia.org/dewiktionary/latest/) (dewiktionary-latest-stub-articles.xml.gz)
 
 ## Uniwersal Networking Language
-* [UNLWWEB](http://www.unlweb.net/unlweb/)
+* [UNLWEB](http://www.unlweb.net/unlweb/)
 * [UNDL](http://www.undl.org/)
 * [UNL Book](https://www.cicling.org/2005/UNL-book/)
 
