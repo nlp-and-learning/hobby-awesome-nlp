@@ -55,6 +55,9 @@ składniowej języka polskiego Adam Radziszewski Promotor: prof. dr hab. inż. Z
 * Book ["1984"](https://www.clarin.si/repository/xmlui/handle/11356/1043)
 in several languages and tagged parts of speech
 
+## Models
+* [NKJP](http://dsmodels.nlp.ipipan.waw.pl/)
+
 ## Dumps
 * mulitstream with indices, English and Polish, other similar downloading
 ### Wikipedia
